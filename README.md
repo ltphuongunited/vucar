@@ -1,14 +1,14 @@
 ### Vucar - Used Car Prediction ###
 
-Dataset: [car.csv](path/to/car.csv)
+Dataset: [car.csv](car.csv)
 
-Build model: [notebook](path/to/notebook.ipynb)
+Build model: [notebook](notebook.ipynb)
 
-Flask API: [main.py](path/to/main.py)
+Flask API: [main.py](main.py)
 
-Streamlit: [app.py](path/to/app.py)
+Streamlit: [app.py](app.py)
 
-Weight: [models/rf.pkl](path/to/models/rf.pkl)
+Weight: [models/rf.pkl](models/rf.pkl)
 
 UI:
 <p align="center">
